@@ -44,9 +44,11 @@ temp/
 # Unnecessary images (WhatsApp images)
 IMG-*-WA*.jpg
 
-# Optional: Ignore all images in root if not needed
-# *.jpg
-# *.png
-
 # Redundant files
 TECHNICAL_IMPLEMENTATION.txt
+
+# Detailed Documentation (Not for GitHub)
+HOW_TO_RUN.md
+PROJECT_DESCRIPTION.md
+QUICKSTART.md
+TECHNICAL_IMPLEMENTATION.md
