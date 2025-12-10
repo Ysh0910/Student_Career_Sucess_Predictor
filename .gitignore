@@ -1,0 +1,52 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependencies
+node_modules/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Build outputs
+dist/
+build/
+out/
+
+# Database
+*.db
+*.sqlite3
+career_predictor.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Internal/Temp files
+.kiro/
+tmp/
+temp/
+
+# Unnecessary images (WhatsApp images)
+IMG-*-WA*.jpg
+
+# Optional: Ignore all images in root if not needed
+# *.jpg
+# *.png
+
+# Redundant files
+TECHNICAL_IMPLEMENTATION.txt
