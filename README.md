@@ -1,6 +1,5 @@
 # Student Career Success Predictor
 
-> **Machine Learning Subject Mini Project**
 
 A full-stack web application that predicts student career success using a pretrained Random Forest model based on academic, skill, and demographic data. This project demonstrates the practical application of machine learning in a real-world web application context.
 
