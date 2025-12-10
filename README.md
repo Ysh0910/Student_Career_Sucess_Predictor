@@ -71,6 +71,13 @@ The **Student Career Success Predictor** leverages machine learning to predict s
 - Python 3.10+
 - Docker and Docker Compose (optional, for containerized deployment)
 
+### 0. Clone the repository
+
+```bash
+git clone https://github.com/Ysh0910/Student_Career_Sucess_Predictor.git
+cd Student_Career_Sucess_Predictor
+```
+
 ### 1. Backend Setup
 
 ```bash
